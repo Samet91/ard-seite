@@ -1,0 +1,144 @@
+body {
+  margin: 0px;
+  height: 1080px;
+  background-image: url(https://userscontent2.emaze.com/images/92af4d92-6a47-4c11-a104-43ae07234d8d/ce9140e0dc82d05e70b8e745a008063f.jpg);
+}
+
+.festebreite {
+  width: 1050px;
+  margin: auto;
+}
+
+#topleiste ul {
+  margin-left: 300px;
+}
+#topleiste {
+  padding: -5px;
+  margin-top: -10px;
+  background-color: #6581b1;
+  width: 100%;
+  float: right;
+}
+
+#topleiste li {
+  padding: -10px;
+  list-style: none;
+  float: left;
+}
+
+#topleiste a:link {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 5px 1px 5px;
+}
+
+#topleiste a:hover {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: darkcyan;
+}
+
+a:visited {
+  color: black;
+}
+#ardbild {
+  content: url(https://www.ard.de/pool/img/ard/banner/logo_base.png);
+  width: 250px;
+  background-repeat: no-repeat;
+}
+
+#suchfeld {
+  position: relative;
+  top: 10px;
+  left: 870px;
+}
+
+#suchfeld input {
+  height: 20px;
+  background-image: url(https://www.ard.de/pool/img/base/icon/lupe_gross.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 20px;
+  position: fixed;
+}
+
+#blauerbalken {
+  background-color: blue;
+  height: 20px;
+  margin: 5px;
+  padding: 5px;
+}
+
+#topbox {
+  margin-left: auto;
+  margin-right: auto;
+  height: 295px;
+  width: 1050px;
+  background-color: rgb(69, 130, 165);
+}
+
+#bildlinksoben {
+  float: left;
+  margin: 0px 0px 0px 0px;
+}
+
+p {
+  margin: 1px;
+}
+
+h3 {
+  margin: 5px;
+}
+
+#mittlererblock {
+  width: 1050px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: midnightblue;
+  margin-top: 20px;
+}
+
+.mittlerebloecke {
+  width: 300px;
+  margin: 20px;
+  float: left;
+}
+
+#grauerbalken {
+  background-color: rgb(174, 182, 176);
+  width: 297px;
+  padding: 2px;
+  margin-bottom: 1px;
+}
+
+#gelberbalken {
+  background-color: yellow;
+  width: 297px;
+  padding: 2px;
+  margin-bottom: 1px;
+}
+
+#roterbalken {
+  background-color: red;
+  width: 297px;
+  height: 19px;
+  padding: 2px;
+  margin-bottom: 2px;
+}
+
+.white {
+  text-decoration-color: white;
+  color: white;
+}
